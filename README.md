@@ -9,7 +9,7 @@ I'm going to attempt to learn a bit about Tensor Flow and hopefully document my 
 
 The TensorFlow tutorials are surprisingly helpful: https://www.tensorflow.org/versions/r0.10/tutorials 
 
-colah's blog set my standards for machine learning blogs a bit too high. Regardless, the posts are awesome: http://colah.github.io/
+The best of the best. Fun to read and very well written. Discovering colah's blog earlier on in this journey set my expectations for ml blogs too high. However, I still forgive them because they are awesome: http://colah.github.io/
 
 Kaparthy's blog posts: http://karpathy.github.io/
 

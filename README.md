@@ -17,5 +17,6 @@ Kaparthy's blog posts: http://karpathy.github.io/
 
 Daniel slater's intro post on q-learning with pong: http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 
+TensorFlow's deep cnn tutorial: http://www.tensorflow.org/versions/r0.12/tutorials/deep_cnn/index.html 
 
 
